@@ -1,1 +1,1 @@
-web: java src.java.controller.Bot
+worker: sh target/bin/workerBot
